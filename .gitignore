@@ -1,0 +1,36 @@
+
+### ignore files from current integration tool  ###
+
+# IntelliJ files
+.idea
+
+# Maven template
+report/
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+
+### ignore other ###
+
+# Java .class files
+*.class
+ 
+# Package Files
+*.jar
+*.war
+*.ear
+
+# Eclipse files
+.project
+.classpath
+.settings
+.metadata
+
+
+

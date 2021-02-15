@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="shop3_lacrosse">
+
+    <test name="adult_shoe_test">
+        <classes>
+            <class name="com.shoesizeme.sa.ui.tester.shop3_lacrosse.LaCrosse_Test1"/>
+            <class name="com.shoesizeme.sa.ui.tester.shop3_lacrosse.LaCrosse_Test2"/>
+            <class name="com.shoesizeme.sa.ui.tester.shop3_lacrosse.LaCrosse_Test3"/>
+        </classes>
+    </test>
+
+</suite>
+

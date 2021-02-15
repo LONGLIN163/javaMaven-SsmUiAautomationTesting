@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="shop29_sperry">
+
+    <test name="adult_shoe_test">
+        <classes>
+            <class name="com.shoesizeme.sa.ui.tester.shop29_sperry.Sperry_Test1"/>
+            <class name="com.shoesizeme.sa.ui.tester.shop29_sperry.Sperry_Test2"/>
+            <class name="com.shoesizeme.sa.ui.tester.shop29_sperry.Sperry_Test3"/>
+        </classes>
+    </test>
+
+</suite>
+

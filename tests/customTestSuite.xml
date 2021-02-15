@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite 1">
+
+    <test name="shop1_lkbennett">
+        <classes>
+            <class name="com.shoesizeme.sa.ui.tester.shop1_lkbennet.Lkbennett_Test1"/>
+            <class name="com.shoesizeme.sa.ui.tester.shop1_lkbennet.Lkbennett_Test2"/>
+            <class name="com.shoesizeme.sa.ui.tester.shop1_lkbennet.Lkbennett_Test3"/>
+        </classes>
+    </test>
+
+    <test name="shop2_zumnorde">
+        <classes>
+            <class name="com.shoesizeme.sa.ui.tester.shop2_zumnorde.Zumnorde_Test1"/>
+            <class name="com.shoesizeme.sa.ui.tester.shop2_zumnorde.Zumnorde_Test2"/>
+            <class name="com.shoesizeme.sa.ui.tester.shop2_zumnorde.Zumnorde_Test3"/>
+        </classes>
+    </test>
+
+    <test name="shop3_lacrosse">
+        <classes>
+            <class name="com.shoesizeme.sa.ui.tester.shop3_lacrosse.LaCrosse_Test1"/>
+            <class name="com.shoesizeme.sa.ui.tester.shop3_lacrosse.LaCrosse_Test2"/>
+            <class name="com.shoesizeme.sa.ui.tester.shop3_lacrosse.LaCrosse_Test3"/>
+        </classes>
+    </test>
+
+
+    <test name="shop4_danner">
+        <classes>
+            <class name="com.shoesizeme.sa.ui.tester.shop4_danner.Danner_Test1"/>
+            <class name="com.shoesizeme.sa.ui.tester.shop4_danner.Danner_Test2"/>
+            <class name="com.shoesizeme.sa.ui.tester.shop4_danner.Danner_Test3"/>
+        </classes>
+    </test>
+
+    <test name="shop5_seavees">
+        <classes>
+            <class name="com.shoesizeme.sa.ui.tester.shop5_seavees.Seavees_Test1"/>
+            <class name="com.shoesizeme.sa.ui.tester.shop5_seavees.Seavees_Test2"/>
+            <class name="com.shoesizeme.sa.ui.tester.shop5_seavees.Seavees_Test3"/>
+        </classes>
+    </test>
+
+    <test name="shop6_11teamsportsCH">
+        <classes>
+            <class name="com.shoesizeme.sa.ui.tester.shop6_11teamsportsCH.TeamsportCH_Test1"/>
+            <class name="com.shoesizeme.sa.ui.tester.shop6_11teamsportsCH.TeamsportCH_Test2"/>
+            <class name="com.shoesizeme.sa.ui.tester.shop6_11teamsportsCH.TeamsportCH_Test3"/>
+        </classes>
+    </test>
+
+    <test name="shop7_11teamsportsDE">
+        <classes>
+            <class name="com.shoesizeme.sa.ui.tester.shop7_11teamsportsDE.TeamsportDE_Test1"/>
+            <class name="com.shoesizeme.sa.ui.tester.shop7_11teamsportsDE.TeamsportDE_Test2"/>
+            <class name="com.shoesizeme.sa.ui.tester.shop7_11teamsportsDE.TeamsportDE_Test3"/>
+        </classes>
+    </test>
+
+    <test name="shop8_11teamsportsAT">
+        <classes>
+            <class name="com.shoesizeme.sa.ui.tester.shop8_11teamsportsAT.TeamsportAT_Test1"/>
+            <class name="com.shoesizeme.sa.ui.tester.shop8_11teamsportsAT.TeamsportAT_Test2"/>
+            <class name="com.shoesizeme.sa.ui.tester.shop8_11teamsportsAT.TeamsportAT_Test3"/>
+        </classes>
+    </test>
+
+    <test name="shop9_11teamsportsTint">
+        <classes>
+            <class name="com.shoesizeme.sa.ui.tester.shop9_11teamsportsTint.TeamsportTint_Test1"/>
+            <class name="com.shoesizeme.sa.ui.tester.shop9_11teamsportsTint.TeamsportTint_Test2"/>
+            <class name="com.shoesizeme.sa.ui.tester.shop9_11teamsportsTint.TeamsportTint_Test3"/>
+        </classes>
+    </test>
+
+    <test name="shop10_11teamsportsKicker">
+        <classes>
+            <class name="com.shoesizeme.sa.ui.tester.shop10_11teamsportsKicker.TeamsportKicker_Test1"/>
+            <class name="com.shoesizeme.sa.ui.tester.shop10_11teamsportsKicker.TeamsportKicker_Test2"/>
+            <class name="com.shoesizeme.sa.ui.tester.shop10_11teamsportsKicker.TeamsportKicker_Test3"/>
+        </classes>
+    </test>
+
+    <test name="shop11_blakemckay">
+        <classes>
+            <class name="com.shoesizeme.sa.ui.tester.shop11_blakemckay.Blakemckay_Test1"/>
+            <class name="com.shoesizeme.sa.ui.tester.shop11_blakemckay.Blakemckay_Test2"/>
+            <class name="com.shoesizeme.sa.ui.tester.shop11_blakemckay.Blakemckay_Test3"/>
+        </classes>
+    </test>
+
+    <test name="shop12_ankarifloruss">
+        <classes>
+            <class name="com.shoesizeme.sa.ui.tester.shop12_ankarifloruss.Ankarifloruss_Test1"/>
+            <class name="com.shoesizeme.sa.ui.tester.shop12_ankarifloruss.Ankarifloruss_Test2"/>
+            <class name="com.shoesizeme.sa.ui.tester.shop12_ankarifloruss.Ankarifloruss_Test3"/>
+        </classes>
+    </test>
+
+    <test name="shop13_goertz">
+        <classes>
+            <class name="com.shoesizeme.sa.ui.tester.shop13_goertz.Goertz_Test1"/>
+            <class name="com.shoesizeme.sa.ui.tester.shop13_goertz.Goertz_Test2"/>
+            <class name="com.shoesizeme.sa.ui.tester.shop13_goertz.Goertz_Test3"/>
+        </classes>
+    </test>
+
+    <test name="shop14_intersport">
+        <classes>
+            <class name="com.shoesizeme.sa.ui.tester.shop14_intersport.Intersport_Test1"/>
+            <class name="com.shoesizeme.sa.ui.tester.shop14_intersport.Intersport_Test2"/>
+            <class name="com.shoesizeme.sa.ui.tester.shop14_intersport.Intersport_Test3"/>
+        </classes>
+    </test>
+
+    <test name="shop15_gordonrush">
+        <classes>
+            <class name="com.shoesizeme.sa.ui.tester.shop15_gordonrush.Gordonrush_Test1"/>
+            <class name="com.shoesizeme.sa.ui.tester.shop15_gordonrush.Gordonrush_Test2"/>
+            <class name="com.shoesizeme.sa.ui.tester.shop15_gordonrush.Gordonrush_Test3"/>
+        </classes>
+    </test>
+
+    <test name="shop16_merrellUK">
+        <classes>
+            <class name="com.shoesizeme.sa.ui.tester.shop16_merrellUK.MerrellUK_Test1"/>
+            <class name="com.shoesizeme.sa.ui.tester.shop16_merrellUK.MerrellUK_Test2"/>
+            <class name="com.shoesizeme.sa.ui.tester.shop16_merrellUK.MerrellUK_Test3"/>
+        </classes>
+    </test>
+
+    <test name="shop17_merrellDE">
+        <classes>
+            <class name="com.shoesizeme.sa.ui.tester.shop17_merrellDE.MerrellDE_Test1"/>
+            <class name="com.shoesizeme.sa.ui.tester.shop17_merrellDE.MerrellDE_Test2"/>
+            <class name="com.shoesizeme.sa.ui.tester.shop17_merrellDE.MerrellDE_Test3"/>
+        </classes>
+    </test>
+
+    <test name="shop18_merrellCA">
+        <classes>
+            <class name="com.shoesizeme.sa.ui.tester.shop18_merrellCA.MerrellCA_Test1"/>
+            <class name="com.shoesizeme.sa.ui.tester.shop18_merrellCA.MerrellCA_Test2"/>
+            <class name="com.shoesizeme.sa.ui.tester.shop18_merrellCA.MerrellCA_Test3"/>
+        </classes>
+    </test>
+
+    <test name="shop19_peterkaiser">
+        <classes>
+            <class name="com.shoesizeme.sa.ui.tester.shop19_peterkaiser.Peterkaiser_Test1"/>
+            <class name="com.shoesizeme.sa.ui.tester.shop19_peterkaiser.Peterkaiser_Test2"/>
+            <class name="com.shoesizeme.sa.ui.tester.shop19_peterkaiser.Peterkaiser_Test3"/>
+        </classes>
+    </test>
+
+    <test name="shop20_outfitter">
+        <classes>
+            <class name="com.shoesizeme.sa.ui.tester.shop20_outfitter.Outfitter_Test1"/>
+            <class name="com.shoesizeme.sa.ui.tester.shop20_outfitter.Outfitter_Test2"/>
+            <class name="com.shoesizeme.sa.ui.tester.shop20_outfitter.Outfitter_Test3"/>
+        </classes>
+    </test>
+
+    <test name="shop21_helmboots">
+        <classes>
+            <class name="com.shoesizeme.sa.ui.tester.shop21_helmboots.Helmboots_Test1"/>
+            <class name="com.shoesizeme.sa.ui.tester.shop21_helmboots.Helmboots_Test2"/>
+            <class name="com.shoesizeme.sa.ui.tester.shop21_helmboots.Helmboots_Test3"/>
+        </classes>
+    </test>
+
+    <test name="shop22_kybun">
+        <classes>
+            <class name="com.shoesizeme.sa.ui.tester.shop22_kybun.Kybun_Test1"/>
+            <class name="com.shoesizeme.sa.ui.tester.shop22_kybun.Kybun_Test2"/>
+            <class name="com.shoesizeme.sa.ui.tester.shop22_kybun.Kybun_Test3"/>
+        </classes>
+    </test>
+
+    <test name="shop23_blakshop">
+        <classes>
+            <class name="com.shoesizeme.sa.ui.tester.shop23_blakshop.Blakeshop_Test1"/>
+            <class name="com.shoesizeme.sa.ui.tester.shop23_blakshop.Blakeshop_Test2"/>
+            <class name="com.shoesizeme.sa.ui.tester.shop23_blakshop.Blakeshop_Test3"/>
+        </classes>
+    </test>
+
+    <test name="shop24_penlandkickers">
+        <classes>
+            <class name="com.shoesizeme.sa.ui.tester.shop24_penlandkickers.Penlandkickers_Test1"/>
+            <class name="com.shoesizeme.sa.ui.tester.shop24_penlandkickers.Penlandkickers_Test2"/>
+            <class name="com.shoesizeme.sa.ui.tester.shop24_penlandkickers.Penlandkickers_Test3"/>
+        </classes>
+    </test>
+
+    <test name="shop25_rubirosa">
+        <classes>
+            <class name="com.shoesizeme.sa.ui.tester.shop25_rubirosa.Rubirosa_Test1"/>
+            <class name="com.shoesizeme.sa.ui.tester.shop25_rubirosa.Rubirosa_Test2"/>
+            <class name="com.shoesizeme.sa.ui.tester.shop25_rubirosa.Rubirosa_Test3"/>
+        </classes>
+    </test>
+
+    <test name="shop26_salewa">
+        <classes>
+            <class name="com.shoesizeme.sa.ui.tester.shop26_salewa.Salewa_Test1"/>
+            <class name="com.shoesizeme.sa.ui.tester.shop26_salewa.Salewa_Test2"/>
+            <class name="com.shoesizeme.sa.ui.tester.shop26_salewa.Salewa_Test3"/>
+        </classes>
+    </test>
+
+    <test name="shop27_keds">
+        <classes>
+            <class name="com.shoesizeme.sa.ui.tester.shop27_keds.Keds_Test1"/>
+            <class name="com.shoesizeme.sa.ui.tester.shop27_keds.Keds_Test2"/>
+            <class name="com.shoesizeme.sa.ui.tester.shop27_keds.Keds_Test3"/>
+        </classes>
+    </test>
+
+    <test name="shop28_hushpuppies">
+        <classes>
+            <class name="com.shoesizeme.sa.ui.tester.shop28_hushpuppies.Hushpuppies_Test1"/>
+            <class name="com.shoesizeme.sa.ui.tester.shop28_hushpuppies.Hushpuppies_Test2"/>
+            <class name="com.shoesizeme.sa.ui.tester.shop28_hushpuppies.Hushpuppies_Test3"/>
+        </classes>
+    </test>
+
+    <test name="shop29_sperry">
+        <classes>
+            <class name="com.shoesizeme.sa.ui.tester.shop29_sperry.Sperry_Test1"/>
+            <class name="com.shoesizeme.sa.ui.tester.shop29_sperry.Sperry_Test2"/>
+            <class name="com.shoesizeme.sa.ui.tester.shop29_sperry.Sperry_Test3"/>
+        </classes>
+    </test>
+
+    <test name="shop30_siemes">
+        <classes>
+            <class name="com.shoesizeme.sa.ui.tester.shop30_siemes.Siemes_Test1"/>
+            <class name="com.shoesizeme.sa.ui.tester.shop30_siemes.Siemes_Test2"/>
+            <class name="com.shoesizeme.sa.ui.tester.shop30_siemes.Siemes_Test3"/>
+        </classes>
+    </test>
+
+    <test name="shop31_ariat">
+        <classes>
+            <class name="com.shoesizeme.sa.ui.tester.shop31_ariat.Ariat_Test1"/>
+            <class name="com.shoesizeme.sa.ui.tester.shop31_ariat.Ariat_Test2"/>
+            <class name="com.shoesizeme.sa.ui.tester.shop31_ariat.Ariat_Test3"/>
+        </classes>
+    </test>
+
+
+    <test name="shop32_11teamsportsFupa">
+        <classes>
+            <class name="com.shoesizeme.sa.ui.tester.shop32_11teamsportsFupa.TeamsportFupa_Test1"/>
+            <class name="com.shoesizeme.sa.ui.tester.shop32_11teamsportsFupa.TeamsportFupa_Test2"/>
+            <class name="com.shoesizeme.sa.ui.tester.shop32_11teamsportsFupa.TeamsportFupa_Test3"/>
+        </classes>
+    </test>
+
+    <test name="shop33_koala">
+        <classes>
+            <class name="com.shoesizeme.sa.ui.tester.shop33_koala.Koala_Test1"/>
+            <class name="com.shoesizeme.sa.ui.tester.shop33_koala.Koala_Test2"/>
+            <class name="com.shoesizeme.sa.ui.tester.shop33_koala.Koala_Test3"/>
+        </classes>
+    </test>
+
+    <test name="shop34_globetrotter">
+        <classes>
+            <class name="com.shoesizeme.sa.ui.tester.shop34_globetrotter.Globetrotter_Test1"/>
+            <class name="com.shoesizeme.sa.ui.tester.shop34_globetrotter.Globetrotter_Test2"/>
+            <class name="com.shoesizeme.sa.ui.tester.shop34_globetrotter.Globetrotter_Test3"/>
+        </classes>
+    </test>
+
+    <test name="shop35_gnl">
+        <classes>
+            <class name="com.shoesizeme.sa.ui.tester.shop35_gnl.Gnl_Test1"/>
+            <class name="com.shoesizeme.sa.ui.tester.shop35_gnl.Gnl_Test2"/>
+            <class name="com.shoesizeme.sa.ui.tester.shop35_gnl.Gnl_Test3"/>
+        </classes>
+    </test>
+
+    <test name="shop36_saucony">
+        <classes>
+            <class name="com.shoesizeme.sa.ui.tester.shop36_saucony.Saucony_Test1"/>
+            <class name="com.shoesizeme.sa.ui.tester.shop36_saucony.Saucony_Test2"/>
+            <class name="com.shoesizeme.sa.ui.tester.shop36_saucony.Saucony_Test3"/>
+        </classes>
+    </test>
+
+</suite>
+

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="suite2">
+
+    <test name="shop1_penlandkickers">
+        <classes>
+            <class name="com.shoesizeme.sa.ui.kidstester.shop1_penlandkickers.Penlandkickers_kids_Test"/>
+        </classes>
+    </test>
+
+    <test name="shop2_siemes">
+        <classes>
+            <class name="com.shoesizeme.sa.ui.kidstester.shop2_siemes.Siemes_kids_Test"/>
+        </classes>
+    </test>
+
+</suite>
+
